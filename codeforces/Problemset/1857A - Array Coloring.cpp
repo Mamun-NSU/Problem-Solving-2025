@@ -1,3 +1,5 @@
+// Link: https://codeforces.com/problemset/problem/1857/A
+
 #include <iostream>
 #include <vector>
 using namespace std;
