@@ -1,6 +1,7 @@
+Link : https : // codeforces.com/problemset/problem/1921/B?
 #include <iostream>
 #include <string>
-using namespace std;
+               using namespace std;
 
 int main()
 {
